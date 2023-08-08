@@ -1,4 +1,4 @@
-PatientID,Diagnosis,Breed,Age,Sex,Neutered,WeightChange,Weight,Hospitalised,Vomiting,Diarrhoea,Hepatomegaly,ThinDrySkin,Alopecia,Pruritus,MuscleWastageWeakness,Lethargy,Panting,Neurological,Polydipsia,Polyuria,Polyphagia,IncreasedALKP,IncreasedATL/GGT/AST,Hypertensive,LowBloodSugar,Hypothyroid,CruciateSurgery
+PatientID,Diagnosis,Breed,Age,Sex,Neutered,WeightChange,Weight,Hospitalised,Vomiting,Diarrhoea,Hepatomegaly,ThinDrySkin,Alopecia,Pruritus,MuscleWastageWeakness,Lethargy,Panting,Neurological,Polydipsia,Polyuria,Polyphagia,IncreasedALKP,IncreasedATL_GGT_AST,Hypertensive,LowBloodSugar,Hypothyroid,CruciateSurgery
 1,1,Jack Russell Terrier,12,M,True,No change,13.0,False,False,False,False,True,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
 2,1,Bichon Frise,12,F,True,No change,9.3,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
 3,1,West Highland White Terrier,13,F,True,No change,9.82,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
